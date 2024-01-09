@@ -93,7 +93,7 @@ Write a new controller for the track resource that includes the actions to get a
 
   
 
-See [frontend/README.md](frontend/README.md) for details.
+See [../frontend/README.md](frontend/README.md) for details.
 
   
 
