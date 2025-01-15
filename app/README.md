@@ -124,6 +124,6 @@ Add the `statistics controller` to let the customers see some statistics data ab
 
 ## Submitting you work
 
-You can send the complete exercise via mail to `lorenzo@worldofv.art` as a link to your fork on GitHub/GitLab/BitBucket.
+You can send the complete exercise via mail to `giacomobenati@mailbox.org` as a link to your fork on GitHub/GitLab/BitBucket.
 
 It's important that you use git to handle the versioning of the software. Don't push large commits, it's preferable to have small commits based on what you have done.
